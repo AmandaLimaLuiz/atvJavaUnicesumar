@@ -6,11 +6,7 @@ package calcularsalario;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Amanda Regina de Lima Luiz
- * RA: 20168093-5
- */
+
 public class CalcularSalario {
 
     public static void main(String[] args) {
